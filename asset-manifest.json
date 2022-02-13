@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Lataji-Tribute/static/css/main.073c9b0a.css",
+    "main.js": "/Lataji-Tribute/static/js/main.6b4ae531.js",
+    "static/js/787.936f9a6a.chunk.js": "/Lataji-Tribute/static/js/787.936f9a6a.chunk.js",
+    "static/media/lata.jpg": "/Lataji-Tribute/static/media/lata.797a2c2102022629a530.jpg",
+    "static/media/logo.svg": "/Lataji-Tribute/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Lataji-Tribute/index.html",
+    "main.073c9b0a.css.map": "/Lataji-Tribute/static/css/main.073c9b0a.css.map",
+    "main.6b4ae531.js.map": "/Lataji-Tribute/static/js/main.6b4ae531.js.map",
+    "787.936f9a6a.chunk.js.map": "/Lataji-Tribute/static/js/787.936f9a6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6b4ae531.js"
+  ]
+}
